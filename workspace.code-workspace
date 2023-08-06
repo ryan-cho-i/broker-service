@@ -2,6 +2,24 @@
   "folders": [
     {
       "path": "front-end"
+    },
+    {
+      "path": "project"
+    },
+    {
+      "path": "mail-service"
+    },
+    {
+      "path": "logger-service"
+    },
+    {
+      "path": "listener-service"
+    },
+    {
+      "path": "broker-service"
+    },
+    {
+      "path": "authentication-service"
     }
   ]
 }
