@@ -8,6 +8,18 @@
     },
     {
       "path": "broker-service"
+    },
+    {
+      "path": "mail-service"
+    },
+    {
+      "path": "logger-service"
+    },
+    {
+      "path": "listener-service"
+    },
+    {
+      "path": "authentication-service"
     }
   ]
 }
